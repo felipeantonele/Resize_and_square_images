@@ -50,4 +50,4 @@ try:
             i += 1
             print('Realizado: ' + str(i))
 except:
-    print('Fudeu')
+    print('Erro')
